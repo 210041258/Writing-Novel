@@ -1,5 +1,7 @@
 
-SUB-CARS DEATILS: https://plexe.car2x.org/tutorial/example2/ to /example5/ to complete study
+Sub-Cars Deatils to complete study: https://plexe.car2x.org/tutorial/example2/ to /example5/ 
+
+
 
 Car.ned is the deatils about the operation of the car which will be directed to the car
 ---------------------------
