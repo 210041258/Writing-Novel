@@ -3,7 +3,7 @@ SUB-CARS DEATILS: https://plexe.car2x.org/tutorial/example2/
 
 CARS NAMES :  
 
-Alfa Romeo 147 1.6 TS (GZ-JXX-2) & (01-10) : 
+Alfa Romeo 147 1.6 TS (GZ-JXX-2) & (01-10) & (11): 
 https://upload.wikimedia.org/wikipedia/commons/c/c0/2002_Alfa_Romeo_147_(MY02)_Selespeed_Twin_Spark_5-door_hatchback_(2010-11-28).jpg
 
 , an Audi R8 (WJG-YX,AFG-YX) :
