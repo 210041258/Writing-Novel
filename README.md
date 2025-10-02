@@ -1,5 +1,5 @@
 
-Sub-Cars Deatils to complete study:
+Sub-Cars Details to complete study:
 https://plexe.car2x.org/tutorial/example2/ to 
 https://plexe.car2x.org/tutorial/example5/ 
 
