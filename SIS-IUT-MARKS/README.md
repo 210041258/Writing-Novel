@@ -129,3 +129,18 @@ Math 4541 Multivariable Calculus and Complex Variables	2023-2024	3	D
 </br>
 </br>
 </br>
+
+
+| **Numerical Marks** | **Letter Grade** | **Grade Point (GPA)** | **Remarks**   |
+| ------------------: | ---------------- | --------------------- | ------------- |
+|       80% and above | A+               | 4.00                  | Excellent     |
+|        75% to < 80% | A                | 3.75                  | Very Good     |
+|        70% to < 75% | A−               | 3.50                  | Good          |
+|        65% to < 70% | B+               | 3.25                  | Fairly Good   |
+|        60% to < 65% | B                | 3.00                  | Satisfactory  |
+|        55% to < 60% | B−               | 2.75                  | Average       |
+|        50% to < 55% | C+               | 2.50                  | Below Average |
+|        45% to < 50% | C                | 2.25                  | Pass          |
+|        40% to < 45% | D                | 2.00                  | Marginal Pass |
+|           Below 40% | F                | 0.00                  | Fail          |
+
