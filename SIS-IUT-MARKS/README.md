@@ -7,6 +7,7 @@ Course id:Course Name:Academic Year: Credit : Grade
 </br>
 </br>
 </br>
+First Semester GPA: 3.36 CGPA: 3.36
 </br>
 CSE 4104 Engineering Drawing Lab	2021-2022	0.75	A
 </br>
@@ -30,6 +31,7 @@ Phy 4142 Physics I Lab	   2021-2022	0.75	A-
 </br>
 </br>
 </br>
+Second Semester GPA: 2.96 CGPA: 3.15
 </br>
 Chem 4241 Chemistry	2021-2022	3	C+
 </br>
@@ -55,6 +57,7 @@ Phy 4242 Physics II Lab	  2021-2022	0.75	B+
 </br>
 </br>
 </br>
+Third Semester GPA: 2.48 CGPA: 2.93
 </br>
 CSE 4301 Object Oriented Programming	2022-2023	3	B+
 </br>
@@ -78,6 +81,7 @@ Math 4341 Linear Algebra	2022-2023	3	**D
 </br>
 </br>
 </br>
+Fouth Semester GPA: 2.69 CGPA: 2.87
 </br>
 CSE 4402 Visual Programming Lab	2022-2023	1.5	A+
 </br>
@@ -101,6 +105,7 @@ Math 4441 Probability and Statistics	2022-2023	3	C+
 </br>
 </br>
 </br>
+Fifth Semester GPA: 2.44 CGPA: 2.78
 </br>
 CSE 4501 Operating Systems	2023-2024	3	**C
 </br>
