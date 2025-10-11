@@ -18,7 +18,7 @@
     </p>
 
    <p>
-      ( 2019 - 2023 ) : ISC Student Support :
+      ( 2019 - 2023 ) : ISC Student Support : </br>
       <a href="https://apkpure.com/isc-student-support/isc.albreem.ps/download">Apk-Pure(Multi-Lang): 
         ISC Student Support </a> </br>
       <a href="https://play.google.com/store/apps/details?id=isc.albreem.ps&hl=fr-CH">Google-Play(Multi-Lang) : ISC Student Support </a>
@@ -26,9 +26,9 @@
    </p>
     
    <p>
-      ( 2019 - 2023 ) : أسئلة عن الفيزياء Questions about Physics 
-      <a href="https://play.google.com/store/apps/details?id=ps.albreem.quizzes.app8&hl=es-MX">Google-Play(Multi-Lang) : Questions about Physics </a>
-      <a href="https://www.appbrain.com/app/physics-questions/ps.albreem.quizzes.app8">Appbrain(Multi-Lang) : Questions about Physics </a>
+      ( 2019 - 2023 ) : أسئلة عن الفيزياء Questions about Physics</br> 
+      <a href="https://play.google.com/store/apps/details?id=ps.albreem.quizzes.app8&hl=es-MX">Google-Play(Multi-Lang) : Questions about Physics </a></br>
+      <a href="https://www.appbrain.com/app/physics-questions/ps.albreem.quizzes.app8">App-brain(Multi-Lang) : Questions about Physics </a>
 
    </p>
    
