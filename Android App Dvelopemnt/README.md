@@ -28,7 +28,7 @@
    <p>
       ( 2019 - 2023 ) : أسئلة عن الفيزياء Questions about Physics</br> 
       <a href="https://play.google.com/store/apps/details?id=ps.albreem.quizzes.app8&hl=es-MX">Google-Play(Multi-Lang) : Questions about Physics </a></br>
-      <a href="https://www.appbrain.com/app/physics-questions/ps.albreem.quizzes.app8">App-brain(Multi-Lang) : Questions about Physics </a>
+      <a href="https://www.appbrain.com/app/physics-questions/ps.albreem.quizzes.app8">App-brain : Questions about Physics </a>
 
    </p>
    
